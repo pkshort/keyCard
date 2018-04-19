@@ -43,3 +43,5 @@
 <a href="https://drive.google.com/file/d/1I28hq5xLUjbNuTjOR-6MU_ydSzsVyVvk/view?usp=sharing" target="_blank">Class Diagram</a> <br>
 <a href="https://drive.google.com/file/d/1UIkhwbCJklW0C0u1UxNPFahcKHp3D7d7/view?usp=sharing" target="_blank">System State Diagram</a> <br>
 <a href="https://drive.google.com/file/d/1XbLVszAMKE-Rg2fs9nphIb9GFROmN2yK/view?usp=sharing" target="_blank">Request State Diagram</a> <br>
+<a href="https://docs.google.com/document/d/1Cn7M8kBUx1TLvQu708VXMkk76jaqTJ9g0m6dPkJHpEE/edit?usp=sharing" target="_blank">Retrospective Notes</a> <br>
+<a href="https://docs.google.com/document/d/1IzJgSj2vcdEQp0K_ol4MOgQOs62ouJOgfKnZA9E3lRw/edit?usp=sharing" target="_blank">Review Agenda</a> <br>
